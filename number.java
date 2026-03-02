@@ -1,3 +1,5 @@
+//basic one in coding
+
 import java.math.*;
 import java.security.*;
 import java.text.*;
@@ -24,3 +26,4 @@ public class Solution {
         }
     }
 }
+
